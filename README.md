@@ -4,7 +4,7 @@
 > *Diego Alvitres - 18/03/2021*, [Trello](https://trello.com/c/jgvhqOEr/118-soporte-mowa-sms)
 + [Soporte] Se agregó un nuevo campo para activar la opción de envío de más de 160 caracteres a los usuarios.
 + [Sistemas] Se agregó en la creación de campañas por excel una validación para detectar si tiene mensajes con más de 160 caracteres, de ser así se muestra una opción de Salida: **Corto con más de 160 caracteres** y posteriormente la cantidad total de mensajes a enviar.
-+ [Comercial] Los mensajes que superen los 160 caracteres se "dividen" en mensajes de 153 caracteres (Es lo que actura el proveedor), se muestra el **Total de mensajes** a enviar en la ventana de confirmación.
++ [Comercial] Los mensajes que superen los 160 caracteres se "dividen" en mensajes de 153 caracteres (Es lo que factura el proveedor), posteriormente se muestra el **Total de mensajes** a enviar en la ventana de confirmación.
 
 ### Características actuales de Mowa...
  - ...
